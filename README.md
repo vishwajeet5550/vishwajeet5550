@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet5550&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet5550" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet5550" alt="vishwajeet5550" /></a> </p>
 
 - 🔭 I’m currently working on [CRM Backend Automation & REST API Development](https://github.com/vishwajeet5550)
 
