@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Advanced Spring Boot, Microservices Architecture, Selenium Framework Design, ReactJS**
 
-- 👯 I’m looking to collaborate on [Java Spring Boot Backend Projects & Selenium Automation Frameworks](https://github.com/vishwajeet5550)
+- 👯 I’m looking to collaborate on [Java Spring Boot Backend Projects](https://github.com/vishwajeet5550)
 
-- 💬 Ask me about **Core Java, Spring Boot, REST APIs, MySQL, Selenium WebDriver, TestNG**
+- 💬 Ask me about **Core Java, Spring Boot, REST APIs, MySQL**
 
 - 📫 How to reach me **vishwajeetshinde5550@gmail.com**
 
