@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Shinde</h1>
-<h3 align="center">Java Backend Developer | SDET | Spring Boot | Selenium | MySQL | REST APIs</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | MySQL | REST APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet5550&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet5550" /> </p>
 
