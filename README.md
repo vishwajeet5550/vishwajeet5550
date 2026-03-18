@@ -22,15 +22,17 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vishwajeetshind3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vishwajeetshind3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vishwajeetshinde5550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishwajeetshinde5550" height="30" width="40" /></a>
   <h3 >Languages and Tools:</h3> 
-<p align="center"> 
+<p > 
 
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin:10px;"/> 
-</a> 
+ 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin:10px;"/> 
 </a> 
+
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin:10px;"/> 
+</a>
 
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin:10px;"/> 
